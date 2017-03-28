@@ -1,0 +1,35 @@
+/* Front End Styles for the Race Report Custom Post Type (For use in theme folder) */
+
+/*The following is for the Blog Type Display of the Custom Post Type */
+
+.race-text {
+	font-size: 16px;
+	margin: 0px !important;
+	padding-bottom: 22px;
+}
+
+
+#race-header {
+	margin-left: 2px; 
+	font-size: 17px;
+	font-weight: bold;
+	
+}
+
+#race-container {
+	margin-left: 2px;  
+	font-size: 15px;
+}
+
+#rankings {
+	background-color: #F0FFF0;
+	border-radius: 20px;
+	padding: 15px;
+	margin-top: 5px;
+}
+
+#race-basics {
+	background-color: #F0FFFF;
+	border-radius: 20px;
+	padding: 15px;
+}

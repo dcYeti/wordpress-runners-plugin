@@ -1,0 +1,27 @@
+
+
+/*The following is CSS for custom post type forms */
+label.form_label {
+	padding-right: 6px;
+	padding-left: 12px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+div.left-label {
+	width: 12%;
+	float: left;
+	padding-top: 8px;
+	clear: left;
+}
+
+div.left-label-extended {
+	width: 16%;
+	float: left;
+	padding-top: 8px;
+	clear: left;
+}
+
+
+
+
